@@ -1,0 +1,45 @@
+body
+{
+	background-color: white;
+	text-align: center;
+	margin-right: 10%;
+	margin-left: 10%;
+}
+div
+{
+	
+	float: left;
+
+	margin-right: 500px;
+}
+.c1
+{
+	background-color: purple;
+	margin : 20px;
+	height: 300px;
+	width: 300px;
+	border: blue solid;
+}
+.c2{
+	background-color: palevioletred;
+	
+	margin : 20px;
+	height: 300px;
+	width: 300px;
+	border: blue solid;
+}
+.c3
+{
+
+	margin : 20px;
+	height: 300px;
+	width: 300px;
+	border: blue solid;
+}
+h1
+{	
+	clear: both;
+	border: 2px solid blue;
+	border-radius: 10px;
+	background-color: dodgerblue;
+}

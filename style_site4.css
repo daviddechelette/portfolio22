@@ -1,0 +1,40 @@
+body
+{
+	background-color: olive;
+	padding-left: 25%;
+	padding-right: 25%;
+}
+
+ul li {
+width: 200px;
+height: 50px;
+border: 2px solid red;
+background-color:pink ;
+list-style: none;
+color: purple;
+font-size: 18px;
+padding-left: 10px;
+line-height: 50px;
+
+}
+
+ul li:hover
+{
+cursor: pointer;
+width: 250px;
+background-color: powderblue;
+font-weight: bold;
+border: 2px solid purple;
+color: red;
+padding-left: 40px;
+transition: all 1s;
+
+}
+div
+{
+
+border: 2px solid yellow;
+width: 90%;
+height: 90%;
+
+}
